@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 테스트기입2
+=======
+테스트기입
+>>>>>>> Stashed changes
